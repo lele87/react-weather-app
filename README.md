@@ -12,4 +12,4 @@
 
 ## Deploy ☁️
 
-[Deploy Link](https://weather-app-emanuele-panesi.netlify.app/)
+[Deploy Link](https://react-weather-app-emanuele-panesi.netlify.app/)
